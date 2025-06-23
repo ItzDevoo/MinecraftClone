@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bedrock",
+        "type": "bedrock"
+    },
+
+    {
+        "name": "Water",
+        "type": "water",
+        "transparent":  true
+    },
+
+    {
+        "name": "Brick",
+        "type": "brick"
+    },
+
+    {
+        "name": "Cobblestone",
+        "type": "cobblestone"
+    },
+
+    {
+        "name": "Dirt",
+        "type": "dirt"
+    },
+
+    {
+        "name": "Grass",
+        "type": "grass_side"
+    },
+
+    {
+        "name": "Glass",
+        "type": "glass",
+        "transparent":  true
+    },
+
+    {
+        "name": "Glowstone",
+        "type": "glowstone",
+        "lightLevel": 15
+    },
+
+    {
+        "name": "Sand",
+        "type": "sand"
+    },
+
+    {
+        "name": "Sandstone",
+        "type": "sandstone_side"
+    },
+
+    {
+        "name": "Snow Block",
+        "type": "snow"
+    },
+
+    {
+        "name": "Stone Brick",
+        "type": "stone_brick"
+    },
+
+    {
+        "name": "Stone",
+        "type": "stone"
+    },
+
+    {
+        "name": "Granite",
+        "type": "granite"
+    },
+
+    {
+        "name": "Terracotta",
+        "type": "terracotta"
+    },
+
+    {
+        "name": "Iron Block",
+        "type": "iron"
+    },
+
+    {
+        "name": "Leaves",
+        "type": "leaves"
+    },
+
+    {
+        "name": "Birch Log",
+        "type": "birch_log"
+    },
+
+    {
+        "name": "Oak Log",
+        "type": "oak_log"
+    },
+
+    {
+        "name": "Birch Plank",
+        "type": "birch_plank"
+    },
+
+    {
+        "name": "Oak Plank",
+        "type": "oak_plank"
+    },
+
+    {
+        "name": "Spruce Plank",
+        "type": "spruce_plank"
+    },
+
+    {
+        "type": "grass_top"
+    },
+
+    {
+        "type": "sandstone_top"
+    }
+]

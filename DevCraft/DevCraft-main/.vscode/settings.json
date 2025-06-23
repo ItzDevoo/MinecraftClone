@@ -1,0 +1,18 @@
+{
+    "dotnet.defaultSolution": "DevCraft.sln",
+    "omnisharp.defaultLaunchSolution": "DevCraft.sln",
+    "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true,
+    "dotnet.server.useOmnisharp": true,
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "csharp.semanticHighlighting.enabled": true,
+    "editor.semanticHighlighting.enabled": true,
+    "code-runner.executorMap": {
+        "csharp": "cd $dir && dotnet run"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.cwd": "$workspaceRoot\\DevCraft"
+}

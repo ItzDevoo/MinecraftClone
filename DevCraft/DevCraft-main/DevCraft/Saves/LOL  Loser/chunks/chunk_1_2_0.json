@@ -1,0 +1,10 @@
+{
+  "ChunkIndex": {
+    "X": 1,
+    "Y": 2,
+    "Z": 0,
+    "Length": 2.23606797749979,
+    "ManhattanDistance": 3
+  },
+  "BlockModifications": {}
+}

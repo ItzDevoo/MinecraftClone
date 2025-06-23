@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch DevCraft",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/DevCraft/bin/Debug/net8.0/DevCraft.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/DevCraft",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Launch DevCraft (External Console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/DevCraft/bin/Debug/net8.0/DevCraft.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/DevCraft",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}

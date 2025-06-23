@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/../Effects/BlockEffect.fx</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/bedrock.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/birch_bark.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/birch_log.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/birch_plank.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/brick.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/cobblestone.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/dirt.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/glass.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/glowstone.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/granite.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/grass_side.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/grass_top.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/iron.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/leaves.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/oak_bark.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/oak_log.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/oak_plank.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/sand.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/sandstone_side.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/sandstone_top.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/snow.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/spruce_plank.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/stone_brick.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/stone.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/terracotta.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Blocks/water.jpg</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/block_outline.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/button_selector.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/button.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/crosshair.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/inventory.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/logo.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/menu_background.jpg</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/selector.png</File>
+    <File>C:/Users/jusss/Desktop/DevCraft/DevCraft-main/DevCraft/Assets/Textures/Menu/toolbar.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Effects/BlockEffect.fx</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
